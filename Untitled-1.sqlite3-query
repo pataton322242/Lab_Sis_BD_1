@@ -1,0 +1,4 @@
+-- database: c:\BASES DE DATOS\Biblioteca\BIBLIOTECA3.db
+
+SELECT * FROM RESERVA
+ORDER BY `ID` ASC;
